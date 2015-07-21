@@ -1,0 +1,20 @@
+{
+  "name": "kit-pack",
+  "version": "0.0.1",
+  "authors": [
+    "Dani Postigo <dani.postigo@gmail.com>"
+  ],
+  "description": "kit pack",
+  "main": "less/kit-pack.less",
+  "keywords": [
+    "less"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
